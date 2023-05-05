@@ -7,6 +7,8 @@ numpy==1.23.5
 pandas==1.5.2
 plotly==5.11.0
 plotly-resampler==0.8.3.2
+pyproj==3.5.0
+shapely==2.0.1
 streamlit==1.21.0
 streamlit-folium==0.11.1
 streamlit-option-menu==0.3.2
